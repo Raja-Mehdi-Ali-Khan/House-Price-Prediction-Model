@@ -75,7 +75,8 @@ _(Values vary slightly on different runs)_
 ## Author
 
 **Raja Mehdi Ali Khan**  
-B.Tech | National Institute of Technology, Andhra Pradesh 
+B.Tech | National Institute of Technology, Andhra Pradesh
+
 Email: rajghaznavi7@gmail.com
 
 ---
